@@ -1,1 +1,7 @@
-
+@font-face {
+    font-family: 'Bodoni';
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BOD_R.TTF')
+         format('truetype');
+         font-weight: normal;
+         font-style: normal;
+}
