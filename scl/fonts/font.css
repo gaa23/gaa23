@@ -1,5 +1,11 @@
 @font-face {
+    /*BEFORE:
     font-family: 'BodoniMT';
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf')
+         format('truetype');*/
+    
+    /*AFTER:*/
+    font-family: 'BodoniMT';
+    src: url('https://raw.githubusercontent.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf')
          format('truetype');
 }
