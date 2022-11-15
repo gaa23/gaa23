@@ -1,13 +1,13 @@
 @font-face {
     /*
     font-family: 'BodoniMT';
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf') format('truetype');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot?#iefix') format('embedded-opentype');
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf') format('truetype'); /* Safari, Android, iOS *//*
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot'); /* IE9+ Compat Modes *//*
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot?#iefix') format('embedded-opentype'); /* IE6-IE8 *//*
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.otf') format('opentype');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff') format('woff');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff2') format('woff2');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.svg') format('svg');
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff') format('woff'); /* Modern browsers *//*
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff2') format('woff2'); /* Super modern browsers *//*
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.svg') format('svg'); /* Legacy iOS */
     }
     */
 
