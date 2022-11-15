@@ -1,14 +1,13 @@
 @font-face {
-
+    /*
     font-family: 'BodoniMT';
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf')
          format('truetype');
+    */
     
-    /*another option would be to see if .tff file can be reached as a raw url like this:
+    /*another option would be to see if .tff file can be reached as a raw url like this:*/
     
     font-family: 'BodoniMT';
     src: url('https://raw.githubusercontent.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf')
          format('truetype');
-    
-    */
 }
