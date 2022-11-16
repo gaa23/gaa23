@@ -17,7 +17,7 @@
     font-family: 'BodoniMT';
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf?raw=true') format('truetype');
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot?raw=true');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot?raw=true?#iefix') format('embedded-opentype');
+    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot?raw=true&#iefix') format('embedded-opentype');
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.otf?raw=true') format('opentype');
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff?raw=true') format('woff');
     src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff2?raw=true') format('woff2');
