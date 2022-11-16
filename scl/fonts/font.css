@@ -12,17 +12,6 @@
     */
     
 
-    font-family: 'BodoniMT';
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf') format('truetype'); /* Safari, Android, iOS */
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot'); /* IE9+ Compat Modes */
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.eot?#iefix') format('embedded-opentype'); /* IE6-IE8 */
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.otf') format('opentype');
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff') format('woff'); /* Modern browsers */
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.woff2') format('woff2'); /* Super modern browsers */
-    src: url('https://github.com/gaa23/gaa23/blob/main/scl/fonts/Bodoni%20MT.svg') format('svg'); /* Legacy iOS */
-    }
-    
-
     /*as another option we can add : ?raw=true  to the end of the link */
    
     /*
@@ -37,7 +26,7 @@
     
     }
 
-     /*another option would be to see if .tff file can be reached as a raw url like this:
+     /*another option would be to see if .tff file can be reached as a raw url like this:*/
 
     font-family: 'BodoniMT';
     src: url('https://raw.githubusercontent.com/gaa23/gaa23/blob/main/scl/fonts/BodoniMT.ttf') format('truetype');
@@ -53,4 +42,4 @@
 
 
 
-*/
+
