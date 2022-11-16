@@ -5,7 +5,7 @@ Add this code to head tag:
 
 <!DOCTYPE html>
 <html>
-WebFont Hosting Test
+
 <br>  
 <head>
   <style>
