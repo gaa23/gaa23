@@ -11,6 +11,12 @@ Add this code to head tag:
   <style>
 
     @import url('https://raw.githubusercontent.com/gaa23/gaa23/main/scl/fonts/Bodoni%20MT.css'); 
+    
+    <br>  
+    
+    body{
+    font-family:Bodoni MT;
+     }
  
  </style>
 </head>
