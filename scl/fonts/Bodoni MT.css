@@ -1,0 +1,15 @@
+/* */
+
+@font-face {
+    font-family:'Bodoni MT';
+    src: url('Bodoni MT.eot');
+	src: url('Bodoni MT.eot?#iefix') format('embedded-opentype'),
+		url('Bodoni MT.woff2') format('woff2'),
+		url('Bodoni MT.woff') format('woff'),
+		url('Bodoni MT.otf') format('opentype'),
+		url('Bodoni MT.svg#Bodoni MT') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-F003;
+}
