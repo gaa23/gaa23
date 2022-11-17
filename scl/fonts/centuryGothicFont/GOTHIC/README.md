@@ -14,8 +14,6 @@ Add this code to head tag:
 
             body {
                 font-family: 'Century Gothic';
-                        font-weight: 400;
-                        font-style: normal;
             }
 
         </style>
