@@ -6,6 +6,7 @@
 	src: url('Century Gothic.eot?#iefix') format('embedded-opentype'),
 		url('Century Gothic.woff2') format('woff2'),
 		url('Century Gothic.woff') format('woff'),
+		url('CenturyGothic.ttf') format('truetype'),
 		url('Century Gothic.otf') format('opentype'),
 		url('Century Gothic.svg#Century Gothic') format('svg');
     font-weight: 400;
