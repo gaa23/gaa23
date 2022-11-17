@@ -1,6 +1,4 @@
-WEBFONT Century Gothic:
-
-All folders contain different type and unicode range. Below the description:
+WEBFONT Century Gothic: All folders contain different type and unicode range. Below the description:
 
 Normal: unicode-range: U+0020-F003
 
