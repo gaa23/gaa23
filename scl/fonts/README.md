@@ -13,7 +13,7 @@ Add this code to head tag:
     @import url('https://raw.githubusercontent.com/gaa23/gaa23/main/scl/fonts/Bodoni%20MT.css');  
     
     body{
-    font-family:Bodoni MT;
+    font-family:'Bodoni MT';
      }
  
  </style>
