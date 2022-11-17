@@ -6,6 +6,7 @@
 	src: url('Century Gothic Bold Italic.eot?#iefix') format('embedded-opentype'),
 		url('Century Gothic Bold Italic.woff2') format('woff2'),
 		url('Century Gothic Bold Italic.woff') format('woff'),
+		url('GOTHICBI.TTF') format('truetype'),
 		url('Century Gothic Bold Italic.otf') format('opentype'),
 		url('Century Gothic Bold Italic.svg#Century Gothic Bold Italic') format('svg');
     font-weight: 700;
