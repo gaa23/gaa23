@@ -16,5 +16,5 @@ Add this code to head tag:
                 font-family: 'Century Gothic';
             }
 
-        </style>
-    </head>
+</style>
+</head>
